@@ -8,17 +8,19 @@
 
 /* Begin PBXBuildFile section */
 		E29834FC294DE897005B93A5 /* LiquidBlobAnimationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E29834FB294DE897005B93A5 /* LiquidBlobAnimationApp.swift */; };
-		E29834FE294DE897005B93A5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E29834FD294DE897005B93A5 /* ContentView.swift */; };
+		E29834FE294DE897005B93A5 /* WithAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E29834FD294DE897005B93A5 /* WithAnimation.swift */; };
 		E2983500294DE899005B93A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E29834FF294DE899005B93A5 /* Assets.xcassets */; };
 		E2983503294DE899005B93A5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2983502294DE899005B93A5 /* Preview Assets.xcassets */; };
+		E2E93BC3295735D200B37E24 /* WithGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2E93BC2295735D200B37E24 /* WithGesture.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		E29834F8294DE897005B93A5 /* LiquidBlobAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LiquidBlobAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E29834FB294DE897005B93A5 /* LiquidBlobAnimationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiquidBlobAnimationApp.swift; sourceTree = "<group>"; };
-		E29834FD294DE897005B93A5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		E29834FD294DE897005B93A5 /* WithAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WithAnimation.swift; sourceTree = "<group>"; };
 		E29834FF294DE899005B93A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E2983502294DE899005B93A5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E2E93BC2295735D200B37E24 /* WithGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WithGesture.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +54,8 @@
 			isa = PBXGroup;
 			children = (
 				E29834FB294DE897005B93A5 /* LiquidBlobAnimationApp.swift */,
-				E29834FD294DE897005B93A5 /* ContentView.swift */,
+				E29834FD294DE897005B93A5 /* WithAnimation.swift */,
+				E2E93BC2295735D200B37E24 /* WithGesture.swift */,
 				E29834FF294DE899005B93A5 /* Assets.xcassets */,
 				E2983501294DE899005B93A5 /* Preview Content */,
 			);
@@ -137,7 +140,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E29834FE294DE897005B93A5 /* ContentView.swift in Sources */,
+				E29834FE294DE897005B93A5 /* WithAnimation.swift in Sources */,
+				E2E93BC3295735D200B37E24 /* WithGesture.swift in Sources */,
 				E29834FC294DE897005B93A5 /* LiquidBlobAnimationApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

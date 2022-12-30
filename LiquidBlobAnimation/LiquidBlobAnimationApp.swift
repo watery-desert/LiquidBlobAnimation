@@ -11,7 +11,7 @@ import SwiftUI
 struct LiquidBlobAnimationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WithAnimation()
         }
     }
 }
