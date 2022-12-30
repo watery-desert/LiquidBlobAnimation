@@ -1,5 +1,3 @@
-#  Watch this tutorial: https://youtu.be/DbMaPNUqxms
-
 ## Watch the tutorial 👇
 
 <div align="left">
